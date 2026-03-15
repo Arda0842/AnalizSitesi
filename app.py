@@ -571,7 +571,7 @@ else:
             "THYAO.IS","EREGL.IS","ASELS.IS","KCHOL.IS","FROTO.IS","TUPRS.IS",
             "ISCTR.IS","AKBNK.IS","YKBNK.IS","GARAN.IS","SAHOL.IS","SASA.IS",
             "HEKTS.IS","BIMAS.IS","SISE.IS","TCELL.IS","TOASO.IS","PETKM.IS",
-            "EKGYO.IS","ENKAI.IS","ARCLK.IS","VESTL.IS","MAVI.IS","PGSUS.IS"
+            "EKGYO.IS","ENKAI.IS","ARCLK.IS","VESTL.IS","MAVI.IS","PGSUS.IS","QUAGR:IS"
         ]
 
         # Tarama kriterleri — kullanıcı ayarlayabilir
